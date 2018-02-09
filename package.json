@@ -26,7 +26,7 @@
     "backbone.browserStorage": "0.0.3",
     "backbone.nativeview": "^0.3.3",
     "backbone.overview": "^1.0.2",
-    "converse.js": "^3.3.3",
+    "converse.js": "git+https://github.com/cmrd-senya/converse.js.git#muc-headless-hackish",
     "es6-promise": "^4.1.0",
     "jed": "1.1.1",
     "jquery": "3.2.1",
