@@ -33,6 +33,7 @@
     "moment": "~2.18.1",
     "pluggable.js": "2.0.0",
     "sizzle": "^2.3.3",
+    "snabbdom": "^0.7.1",
     "strophe.js": "1.2.14",
     "strophejs-plugin-disco": "0.0.1",
     "strophejs-plugin-ping": "0.0.1",
