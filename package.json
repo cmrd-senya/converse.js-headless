@@ -40,6 +40,7 @@
     "strophejs-plugin-ping": "0.0.1",
     "strophejs-plugin-register": "0.0.1",
     "strophejs-plugin-rsm": "0.0.1",
-    "strophejs-plugin-vcard": "0.0.1"
+    "strophejs-plugin-vcard": "0.0.1",
+    "xss": "^0.3.7"
   }
 }
