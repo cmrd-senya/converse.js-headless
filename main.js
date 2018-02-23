@@ -19,4 +19,4 @@ Converse.plugins.add('expose-internal', {
       this._converse.on('pluginsInitialized', handler);
     }
   }
-}
+});
