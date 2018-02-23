@@ -33,6 +33,7 @@
     "es6-promise": "^4.1.0",
     "jed": "1.1.1",
     "jquery": "3.2.1",
+    "lodash-template-webpack-loader": "^1.0.2",
     "moment": "~2.18.1",
     "pluggable.js": "2.0.0",
     "sizzle": "^2.3.3",
