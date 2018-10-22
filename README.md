@@ -1,3 +1,5 @@
+**Deprecated**: Converse.js upstreame has merged support for separate `@converse/headless` package which can be used in a webpack project. Use it instead.
+
 # Using Converse.js Headless in a Webpack-bundled project
 
 This repository contains NPM package which depends on packages which are required to use Converse.js as a library within your Webpack-bundle application.
